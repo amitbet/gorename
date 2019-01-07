@@ -15,6 +15,7 @@ go install github.com/amitbet/gorename
 original hack:
 https://github.com/prateek/tools/commit/72b0e988ce6957db328582decda8829154c66545
 
+## Any Issues?
 If you is still get a 100% CPU gorename.exe process, you are using it from the wrong directory,
 check the command line, or run which/where gorename.exe (depending on your OS)
 then change your PATH so the right gorename.exe is invoked, or overwrite the other one with the new one in your $GOPATH/bin directory.
