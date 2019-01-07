@@ -7,7 +7,7 @@ Searching the git issues, I found that @prateek already commented out that globa
 I reorginized the code into one package, and tested that it works.
 comparison with go 1.11 code shows that the tools/refactoring/rename hasn't changed since.
 
-now renaming in vs-code works within two seconds (due to code checking and vetting done before running gorename)
+Now renaming in vs-code works within two seconds (due to code checking and vetting done before running gorename)
 
 ## installing:
 ```
